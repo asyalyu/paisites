@@ -36,9 +36,9 @@ plugins:
 
 navigation:
   - name: ella_chatbox
-    url: /ella_chatbox
+    url: /ella_chatbox.html
   - name: About
-    url: /frank_faq
+    url: /frank_faq.html
   - name: people
     url: /emma_people
   - name: Contact
