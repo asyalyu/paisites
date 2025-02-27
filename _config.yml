@@ -34,15 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-navigation:
-  - name: e
-    url: /ella_chatbox.html
-  - name: f
-    url: /frank_faq.html
-  - name: people
-    url: /emma_people
-  - name: Contact
-    url: /contact
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
