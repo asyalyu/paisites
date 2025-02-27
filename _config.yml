@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 
 navigation:
-  - name: ella_chatbox
+  - name: e
     url: /ella_chatbox.html
   - name: f
     url: /frank_faq.html
