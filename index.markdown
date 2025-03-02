@@ -9,6 +9,7 @@ title: Home
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="design.css"> <!-- Link to the CSS file -->
 </head>
 <body>
     <h1>Welcome to My Jekyll Site!</h1>
