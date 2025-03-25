@@ -15,7 +15,7 @@ title: Home
     <h1>Welcome to My Jekyll Site!</h1>
     <p>This is the homepage of my website.</p>
 
-    <h2>Navigation</h2>
+<h2>Navigation</h2>
     <ul>
         <li><a href="{{ site.baseurl }}/ella_chatbox.html">Chatbox</a></li>
         <li><a href="{{ site.baseurl }}/frank_faq.html">FAQ</a></li>
